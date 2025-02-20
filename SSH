@@ -1,1 +1,2 @@
 Centos
+ssh -i (username).pem ec2-user@(PUBLIC IP)
